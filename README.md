@@ -7,7 +7,6 @@ This repository contains four beginner-friendly JavaScript projects that cover d
 ### 1️⃣ **BMI Calculator**
    - A simple web-based BMI (Body Mass Index) calculator.
    - Users can input their weight and height to get their BMI.
-   - Provides a classification based on BMI (Underweight, Normal, Overweight, Obese).
    - **Tech Used:** HTML, CSS, JavaScript.
 
    **📂 File:** `BMICalculator/index.html`
@@ -15,8 +14,7 @@ This repository contains four beginner-friendly JavaScript projects that cover d
 ---
 
 ### 2️⃣ **Color Picker**
-   - A tool that allows users to select colors using an input color picker.
-   - Displays the selected color and its hex code.
+   - A tool that allows users to select colors and change the background to that color.
    - **Tech Used:** HTML, CSS, JavaScript.
 
    **📂 File:** `ColorPicker/index.html`
