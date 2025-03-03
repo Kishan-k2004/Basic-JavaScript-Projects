@@ -1,42 +1,42 @@
 # **Basic JavaScript Projects 🚀**  
 
-This repository contains five beginner-friendly JavaScript projects that focus on **DOM manipulation**, **event handling**, and **user interaction**. Each project is simple yet effective for learning core JavaScript concepts.  
+This repository contains six beginner-friendly JavaScript projects that focus on **DOM manipulation**, **event handling**, and **user interaction**. Each project is simple yet effective for learning core JavaScript concepts.  
 
 ## **📌 Projects Included:**  
 
-### 1️⃣ **BMI Calculator**  
+### 1⃣ **BMI Calculator**  
    - A simple web-based BMI (Body Mass Index) calculator.  
    - Users can input their weight and height to get their BMI.  
    - **Tech Used:** HTML, CSS, JavaScript.  
-   **📂 File:** `BMICalculator/index.html`  
+   **📚 File:** `BMICalculator/index.html`  
 
 ---
 
-### 2️⃣ **Color Picker**  
+### 2⃣ **Color Picker**  
    - A tool that allows users to select colors and change the background to that color.  
    - **Tech Used:** HTML, CSS, JavaScript.  
-   **📂 File:** `ColorPicker/index.html`  
+   **📚 File:** `ColorPicker/index.html`  
 
 ---
 
-### 3️⃣ **Guess the Number**  
+### 3⃣ **Guess the Number**  
    - A simple number guessing game.  
    - The player has limited attempts to guess a random number between 1 and 10.  
    - Displays messages indicating whether the guess is too high, too low, or correct.  
    - **Tech Used:** HTML, CSS, JavaScript.  
-   **📂 File:** `GuessTheNumber/index.html`  
+   **📚 File:** `GuessTheNumber/index.html`  
 
 ---
 
-### 4️⃣ **Local Time**  
+### 4⃣ **Local Time**  
    - A real-time clock that displays the current time.  
    - Updates every second.  
    - **Tech Used:** HTML, CSS, JavaScript.  
-   **📂 File:** `LocalTime/index.html`  
+   **📚 File:** `LocalTime/index.html`  
 
 ---
 
-### 5️⃣ **To-Do List**  
+### 5⃣ **To-Do List**  
    - A simple task management app where users can **add, mark, and delete** tasks.  
    - Data is stored in **local storage**, so tasks persist even after refreshing the page.  
    - **Features:**  
@@ -45,7 +45,21 @@ This repository contains five beginner-friendly JavaScript projects that focus o
      ✅ Remove tasks  
      ✅ Saves tasks in local storage  
    - **Tech Used:** HTML, CSS, JavaScript.  
-   **📂 File:** `ToDoList/index.html`  
+   **📚 File:** `ToDoList/index.html`  
+
+---
+
+### 6⃣ **Password Generator**  
+   - A tool that generates a **random secure password**.  
+   - Users can **copy** the password with a single click.  
+   - User can also see the strength of the password.
+   - **Features:**  
+     ✅ Random password generation  
+     ✅ Toggle password visibility  
+     ✅ Copy password to clipboard 
+     ✅ Show the strength of the password
+   - **Tech Used:** HTML, CSS, JavaScript.  
+   **📚 File:** `PasswordGenerator/index.html`  
 
 ---
 
@@ -59,8 +73,12 @@ This repository contains five beginner-friendly JavaScript projects that focus o
 
 ---
 
-## **📜 License**  
+## **🐝 Contributing**  
+Feel free to contribute by **adding features, fixing bugs, or suggesting improvements**! Pull requests are welcome.  
+
+---
+
+## **🐝 License**  
 This project is open-source and free to use.  
 
-Feel free to contribute, suggest improvements, or ask any questions! 😊🔥
-
+Let me know if you need any further changes! 🚀🔧
