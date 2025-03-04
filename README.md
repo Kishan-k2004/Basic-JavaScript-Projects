@@ -1,6 +1,6 @@
 # **Basic JavaScript Projects 🚀**  
 
-This repository contains six beginner-friendly JavaScript projects that focus on **DOM manipulation**, **event handling**, and **user interaction**. Each project is simple yet effective for learning core JavaScript concepts.  
+This repository contains seven beginner-friendly JavaScript projects that focus on **DOM manipulation**, **event handling**, and **user interaction**. Each project is simple yet effective for learning core JavaScript concepts.  
 
 ## **📌 Projects Included:**  
 
@@ -52,14 +52,21 @@ This repository contains six beginner-friendly JavaScript projects that focus on
 ### 6⃣ **Password Generator**  
    - A tool that generates a **random secure password**.  
    - Users can **copy** the password with a single click.  
-   - User can also see the strength of the password.
    - **Features:**  
      ✅ Random password generation  
      ✅ Toggle password visibility  
-     ✅ Copy password to clipboard 
-     ✅ Show the strength of the password
+     ✅ Copy password to clipboard  
    - **Tech Used:** HTML, CSS, JavaScript.  
    **📚 File:** `PasswordGenerator/index.html`  
+
+---
+
+### 7⃣ **Image Search Engine**  
+   - A web application that allows users to search for images using the **Pexels API**.  
+   - Users can enter a keyword, and relevant images are displayed.  
+   - A **Show More** button is available to load additional images.  
+   - **Tech Used:** HTML, CSS, JavaScript, Pexels API.  
+   **📚 File:** `ImageSearchEngine/index.html`  
 
 ---
 
@@ -82,3 +89,4 @@ Feel free to contribute by **adding features, fixing bugs, or suggesting improve
 This project is open-source and free to use.  
 
 Let me know if you need any further changes! 🚀🔧
+
