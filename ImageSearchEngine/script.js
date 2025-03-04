@@ -15,7 +15,7 @@ async function api() {
     const res = await fetch(url,{
         method : 'GET',
         headers : {
-            "Authorization": 'vyxc4YHnqGyhgOlA7ZVcPjNkMc30wLXN84DP7FSRZKVdRU3egTyzGWZk'
+            "Authorization": 'API KEY'
         }
     })
 
