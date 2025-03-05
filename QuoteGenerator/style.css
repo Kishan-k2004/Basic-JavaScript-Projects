@@ -1,0 +1,92 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    
+    background-color: #212121;
+}
+
+#container{
+    width: 40%;
+    background-color: rgb(255, 255, 255);
+    justify-content: center;
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+    border-radius: 10px;
+    top: 30%;
+    left: 30%;
+    position: absolute;
+}
+
+.head{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.line{
+    width: 20%;
+    background-color: rgb(15, 131, 232);
+    height: 2px;
+    position: absolute;
+    left: 40%;
+}
+
+#quote{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    padding: 30px 30px 30px 30px;
+    min-height: 110px;
+}
+
+
+
+#author{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    float: right;
+    padding: 20px 20px 20px 20px;
+    display: none;
+    position: relative;
+    
+    
+}
+
+#author::before{
+    content: '';
+    width: 20px;
+    height: 2px;
+    position: absolute;
+    background-color: rgb(15, 131, 232);
+    top: 50%;
+    left: -5%;
+}
+
+button{
+    padding: 20px 40px 20px 40px;
+    border-radius: 30px;
+    border: black 1px solid;
+    background-color: rgb(15, 171, 232);
+    font-weight: 500;
+    
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: rgb(4, 183, 254);
+}
+
+.btn{
+    width: 100%;
+    justify-content: center;
+    margin-top: 60px;
+}

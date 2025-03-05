@@ -38,6 +38,9 @@ async function api() {
 }
 
 searchBox.addEventListener('input',(e)=>{
+    if(searchBox.length == 0){
+        resultBox.innerHTML = ''
+    }
     resultBox.innerHTML = ''
     e.preventDefault()
     page = 1

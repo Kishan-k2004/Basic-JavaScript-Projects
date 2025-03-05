@@ -1,6 +1,6 @@
 # **Basic JavaScript Projects 🚀**  
 
-This repository contains seven beginner-friendly JavaScript projects that focus on **DOM manipulation**, **event handling**, and **user interaction**. Each project is simple yet effective for learning core JavaScript concepts.  
+This repository contains eight beginner-friendly JavaScript projects that focus on **DOM manipulation**, **event handling**, and **user interaction**. Each project is simple yet effective for learning core JavaScript concepts.  
 
 ## **📌 Projects Included:**  
 
@@ -67,6 +67,14 @@ This repository contains seven beginner-friendly JavaScript projects that focus 
    - A **Show More** button is available to load additional images.  
    - **Tech Used:** HTML, CSS, JavaScript, Pexels API.  
    **📚 File:** `ImageSearchEngine/index.html`  
+
+---
+
+### 8⃣ **Quote Generator**  
+   - A web-based application that generates random motivational quotes.  
+   - Users can refresh to get a new quote or click a button to generate one.  
+   - **Tech Used:** HTML, CSS, JavaScript.  
+   **📚 File:** `QuoteGenerator/index.html`  
 
 ---
 
