@@ -21,3 +21,14 @@ async function api(){
     console.log(data)
 
 }
+
+const icon = document.getElementById('icon')
+icon.onclick = function(){
+    document.body.classList.toggle('light')
+    if(document.body.classList.contains('light')){
+        icon.src = 'moon.png'
+    }
+    else{
+        icon.src='sun.png'
+    }
+}
